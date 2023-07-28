@@ -1,0 +1,5 @@
+
+resources:
+  - resources/configmap.yml
+  - deployment/nginx.yml
+#  - the_works.yml
